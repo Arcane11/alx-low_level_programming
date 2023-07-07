@@ -1,7 +1,7 @@
 #include "main.h"
-void _puts(char *str)
 #include<stdio.h>
-/**
+void _puts(char *str);
+/**i
  * main - Entry point
  *
  * Return: Always 0 (Success)
