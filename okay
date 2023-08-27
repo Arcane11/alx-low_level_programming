@@ -1,0 +1,405 @@
+[33mcommit 17d3357201d23abda02995c8ed545503e713e890[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 1ed6035 7bbe6d5
+Author: bekafekadu <beekaambekam@gmail.com>
+Date:   Sat Aug 26 15:14:42 2023 +0300
+
+    Merge branch 'main' of https://github.com/Arcane11/alx-low_level_programming
+
+[33mcommit 1ed603555ba0bd1e18b137c5d1800767a5aa014a[m
+Author: bekafekadu <beekaambekam@gmail.com>
+Date:   Sat Aug 26 15:14:24 2023 +0300
+
+    compiled readtext and create file
+
+[33mcommit 7bbe6d5159aa2fda3ced2aecf67f7af08567a790[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Sat Aug 26 03:00:09 2023 -0700
+
+    completed elf_header task
+
+[33mcommit 2899f54b228aae961bc54e4cc3536294f2281667[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Aug 7 23:32:06 2023 +0300
+
+    done project
+
+[33mcommit 5fffcaaf6d2466beca650a10921a1621a36a4d76[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Fri Aug 4 22:55:43 2023 +0300
+
+    did prohject C-bitmanipulation
+
+[33mcommit d78e067eed5e7c9f5d3783ab0720af8d8ff4d43d[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jul 31 17:56:16 2023 +0300
+
+    done with more singly linked lists
+
+[33mcommit 83c983979b2aa4cdca3ea6ed11c62441f2a1fce0[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Fri Jul 28 09:39:01 2023 +0300
+
+    finished singly linked lists
+
+[33mcommit 4d3ef6dfa5e8bb5e5d9798b0be41dd1b2230083e[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jul 24 22:41:24 2023 +0300
+
+    cleared an error
+
+[33mcommit 7f6c4d7777f5675b06900b5a22c654c82708f763[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jul 24 22:28:08 2023 +0300
+
+    just completed the task
+
+[33mcommit b7b7933f2d9e059578074cd4e2556fc14485ba0c[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jul 20 15:45:38 2023 +0300
+
+    finished task
+
+[33mcommit 3ecfd6edb67058ac47edebd8431db4e13baa417b[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Wed Jul 19 16:22:22 2023 +0300
+
+    finished c- funciton pointers
+
+[33mcommit ddd8448298d317180b28fb797f25952ceea7b2a8[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jul 17 11:08:01 2023 +0300
+
+    finished
+
+[33mcommit d2857695c64131c645e4e00427ba1549bb8525d7[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jul 17 10:27:45 2023 +0300
+
+    finished
+
+[33mcommit 5ebbb164dfeef829aea90aebeb5a5d9a4d328892[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Sat Jul 15 19:51:19 2023 +0300
+
+    finieshd c -more malloc
+
+[33mcommit 0928dfdad4d39e73a2867babcafe7afbd1fccfe4[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jul 10 09:41:34 2023 +0300
+
+    finished task
+
+[33mcommit 789d6dd0b5a206fcb5a67ca33f3ea401cd88bb0f[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Sat Jul 8 11:08:18 2023 +0300
+
+    accomplished
+
+[33mcommit e4789f51df402c42a9a7a075d1467ab8a1c74196[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Fri Jul 7 10:17:31 2023 +0300
+
+    done
+
+[33mcommit 52a42a4dc6792bb9aad7448d5f340dc6e5d24377[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Fri Jul 7 10:05:08 2023 +0300
+
+    done
+
+[33mcommit 3c32eeb7e866c0f06acda3aba8420488f155fc57[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Fri Jul 7 09:34:16 2023 +0300
+
+    finished
+
+[33mcommit 53c68be9d180fafdea9273134fb61005a289a033[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Wed Jul 5 13:41:11 2023 +0300
+
+    finished task 0x08
+
+[33mcommit 6ff5c0f90ff0ec2e9728b4f647c17c7e3abb2f18[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Tue Jul 4 09:16:53 2023 +0300
+
+    finished bonus task
+
+[33mcommit 2f2ca0e97867f7bdf37dd621bed100cc2860b0c3[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Tue Jul 4 08:59:32 2023 +0300
+
+    even more pointers
+
+[33mcommit e408a95481c717a256e0c521ef3db04ae7c796f2[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Fri Jun 30 12:12:11 2023 +0300
+
+    finished
+
+[33mcommit 3556028604458085e5ebc401f554e54a9bddc6aa[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 18:44:01 2023 +0300
+
+    finished
+
+[33mcommit b370f416e0e9bbec4bcd52732150a31b8a450175[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 18:34:20 2023 +0300
+
+    frf
+
+[33mcommit ef3be22ad92beb020f9e19d3219aa8d7ffa05e1d[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 18:25:30 2023 +0300
+
+    frF
+
+[33mcommit f7444c558b8bf1afc95e19fb7be39fec9ac99f49[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 18:16:26 2023 +0300
+
+    Frfr
+
+[33mcommit b53f3bd4d0978eeb22ccaff7b7d6dcf2f5d1b900[m
+Merge: 5013a82 2a19d14
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 18:04:25 2023 +0300
+
+    frf
+
+[33mcommit 5013a82c7123e776b3b6ce032d4dcbedcdec5f3a[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 18:00:57 2023 +0300
+
+    eedd'
+
+[33mcommit 6d907a95a4e4a3514f4af84ae20438fe803b2a04[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 17:59:18 2023 +0300
+
+    prooly done
+
+[33mcommit c2c1cdf5e035a4a9f2b77bcb7986734736535ba8[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 17:57:10 2023 +0300
+
+    wiow
+
+[33mcommit 2a19d14e54fe312a1a87385a5c260947dc7413e0[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 17:51:17 2023 +0300
+
+    did an update
+
+[33mcommit bc1306dea70d0875c1f2a14e911913fc1a55bf6c[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 17:34:22 2023 +0300
+
+    not done with errors
+
+[33mcommit 898598f64f710cf7f100c8b6073a9fd0fb56b0ae[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 17:29:36 2023 +0300
+
+    done with some bugs
+
+[33mcommit d0729c88afc01e78536826bfc960a79d57a3ba7b[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Mon Jun 26 17:21:53 2023 +0300
+
+    doen with task 0x05 and only left with compilation
+
+[33mcommit 084b516b20c00cf11a9d0bcb3aaa8b1fb6f31a0b[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jun 22 22:58:15 2023 +0300
+
+    added one permission to bonus task
+
+[33mcommit 17351565a771510df372d75ee5a85b7046364770[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jun 22 22:56:12 2023 +0300
+
+    finished task 2
+
+[33mcommit d817e65ee47d8161d3ba5fb1b45491efd9cbe056[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jun 22 22:47:07 2023 +0300
+
+    edited some message
+
+[33mcommit 20f823fbb6bd10450a59900cab0b04247e17f53c[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jun 22 22:43:11 2023 +0300
+
+    solved half the tasks
+
+[33mcommit 7ec46f5afe162cbef4e7c27d32467400afa95612[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jun 22 22:29:30 2023 +0300
+
+    fixed some bugs
+
+[33mcommit 8986101f3a83a6d1fea3e6f07cbb8814ae13d71d[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jun 22 22:21:14 2023 +0300
+
+    tasks completed
+
+[33mcommit ae3b47a433e40152f1bdca0428bbc717c3519e4f[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Wed Jun 21 11:51:52 2023 +0300
+
+    finalised
+
+[33mcommit 0719dc21eb13379d26b403d1a066066941dd01fd[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Wed Jun 21 11:41:10 2023 +0300
+
+    changed directories for the files
+
+[33mcommit d675d2796717343468421be93633f3b2cdd5795f[m
+Merge: 9e6b4fd d0f0cf8
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Wed Jun 21 11:36:59 2023 +0300
+
+    Merge branch 'main' of https://github.com/Arcane11/alx-low_level_programming into main
+
+[33mcommit 9e6b4fd35b0ea8d1b415df395bfcba7d0576305c[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Wed Jun 21 11:35:53 2023 +0300
+
+    cloned repo on my local machine.
+
+[33mcommit d0f0cf890c926834aeeaa2d8099558ca892f7cbc[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Wed Jun 21 11:29:17 2023 +0300
+
+    fixed a bug
+
+[33mcommit c3b88258e02165a5e152aedd344313d819d5ee2c[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Wed Jun 21 11:24:15 2023 +0300
+
+    did task 0x02 functions
+
+[33mcommit a005c878fe8e2299955299f10f974802243ee897[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Sun Jun 18 10:52:32 2023 +0300
+
+    added bonus points
+
+[33mcommit 0de1b02df47bb134ae6ec1d39ad714fb1832874c[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Fri Jun 16 23:45:44 2023 +0300
+
+    finished the c variable project
+
+[33mcommit fa014083e0e2653f2b2a288735fc4ff898c51862[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Fri Jun 16 22:48:34 2023 +0300
+
+    created the files and directories
+
+[33mcommit 568b14b7f63896e4958867860325b65d2617f7fa[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 14:14:03 2023 +0300
+
+    finally
+
+[33mcommit c72f4e369867481c0671256b14d5653c82854f52[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 14:11:41 2023 +0300
+
+    changed the code
+
+[33mcommit 0ce07f5446c6d229cf33027f614728d06ededf15[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 14:07:09 2023 +0300
+
+    ded
+
+[33mcommit c4672f294dabf532be0b23dbe296330e3c31b6d9[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 13:52:08 2023 +0300
+
+    changed a lot of things
+
+[33mcommit 56865d7cd0080206a65e934c07c0dbc98c94b1af[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 13:42:40 2023 +0300
+
+    fixed some error
+
+[33mcommit 20cb97197c1b66181e1bf7bef3f9cea557ca37e7[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 13:23:46 2023 +0300
+
+    finally done with task 4
+
+[33mcommit d8779877283a5d98d2e44cff145f188cf88e4962[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 13:13:05 2023 +0300
+
+    rfR
+
+[33mcommit b89ec669cd1c50a2b7be33fd2e1d41c5e2a1ca36[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 13:10:28 2023 +0300
+
+    task 2 done
+
+[33mcommit 9e81a9ebddb34c46d8f3e017bc64516c2e13b620[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 13:03:41 2023 +0300
+
+    Frfr
+
+[33mcommit 44638550c32d7548e57ca104226efe13c06f6668[m
+Merge: 5bac3c9 105f92f
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 02:46:09 2023 -0700
+
+    Merge branch 'main' of http://github.com/Arcane11/alx-low_level_programming into main
+
+[33mcommit 5bac3c99af6d88ecb69a99cd7831541dc686cb03[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 02:45:33 2023 -0700
+
+    1
+
+[33mcommit 105f92fd93b7ccabab214097f678757fa4417225[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jun 15 12:39:25 2023 +0300
+
+    Delete README.md
+
+[33mcommit 1c0d91337e2e62e5184a4eda1a6b4e3202c9ffda[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 02:37:36 2023 -0700
+
+    changed the directory of readme
+
+[33mcommit cc9f371d4690ad1bc4575de3c6ab7da1bd17f87d[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jun 15 12:35:15 2023 +0300
+
+    Update README.md
+
+[33mcommit bb3ee22a3b7ac3ad0e8eaf7ffdc9eb4d6936753b[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 02:31:53 2023 -0700
+
+    c task 1
+
+[33mcommit 9c8a7657fec026b040f2a2f357e2a708055e9e71[m
+Author: Beka Fekadu <beekaakoo11@gmail.com>
+Date:   Thu Jun 15 02:16:56 2023 -0700
+
+    added a repo
+
+[33mcommit 66a7e103f3894e546bc7d22e6a876823fb6fbc20[m
+Author: Beka Fekadu <98936162+Arcane11@users.noreply.github.com>
+Date:   Thu Jun 15 11:31:54 2023 +0300
+
+    Initial commit
