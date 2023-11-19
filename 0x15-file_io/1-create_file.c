@@ -1,28 +1,28 @@
 #include "main.h"
+#include <stdlib.h>
+
 /**
- * create_file - Creates A File.
- * @filename: A pointer TO Name of File being create.
- * @text_content: Pointer 2 Contents of File
- * Return: If the Fnction Fails -1 else  1
+ * read_textfile- Read text file print to STDOUT.
+ * @filename: text file being read
+ * @letters: number of letters to be read
+ * Return: w- actual number of bytes read and printed
+ *        0 when function fails or filename is NULL.
  */
-int create_file(const char *filename, char *text_content)
+ssize_t read_textfile(const char *filename, size_t letters)
 {
-	int fd, w, length = 0;
+	char *buf;
+	ssize_t fd;
+	ssize_t w;
+	ssize_t t;
 
-	if (filename == NULL)/*SEES if File HAS name*/
-	return (-1);
+	fd = open(filename, O_RDONLY);
+	if (fd == -1)
+		return (0);
+	buf = malloc(sizeof(char) * letters);
+	t = read(fd, buf, letters);
+	w = write(STDOUT_FILENO, buf, t);
 
-	if (text_content != NULL)/* SEES is File HAS content */
-	{
-		for (length = 0; text_content[length];)
-			length++;/*Callculates Length of Text_content*/
-	}
-	fd = open(filename, O_CREAT | O_RDWR | O_TRUNC, 0600);
-	w = write(fd, text_content, length);
-/*Opens File, give it Permission, If it Exists it Erases it */
-
-	if (fd == -1 || w == -1)
-	return (-1);
-	close(fd);/*Else*/
-	return (1);
+	free(buf);
+	close(fd);
+	return (w);
 }
